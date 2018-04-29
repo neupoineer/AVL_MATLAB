@@ -1,0 +1,17 @@
+LOAD .\wingproject.avl
+PLOP
+g
+
+OPER
+c1
+m 6.5270
+g 386.0900
+d 0.000001377
+x 15.0000
+
+a a 8.0000
+x
+st
+.\sampleData\newData1.st
+
+Quit

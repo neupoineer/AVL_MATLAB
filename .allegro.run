@@ -1,0 +1,12 @@
+LOAD hpa2.avl
+PLOP
+g
+
+OPER
+c1
+v 10.0000
+
+st
+output.st
+
+Quit
